@@ -1,9 +1,10 @@
-# Proyecto1LaboratorioAprEst
+# Proyecto 1 – Regresión
 
-Proyecto 1 de la materia de Laboratorio de Aprendizaje estadístico.
+Este es el **Proyecto 1** de la materia *Laboratorio de Aprendizaje Estadístico*.
 
-Integrantes:
+## Integrantes
 
-Sofía Hinojosa
-Julia Hernández
-Sara Hernández
+- Sofía Hinojosa
+- Julia Hernández
+- Sara Hernández
+
